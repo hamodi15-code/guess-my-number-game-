@@ -55,8 +55,4 @@ document.querySelector('.number').style.width = '15rem';
 secretNumber=Math.trunc(Math.random()*20)+1;
 score=20;
 highScore=0;
-console.log('try');
-
-
-
 })
